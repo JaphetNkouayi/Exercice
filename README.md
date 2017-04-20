@@ -10,7 +10,6 @@
 Nous allons énumèrer la liste qui nous semble essentielle pour l'apprentissage du métier de **développeur web**. <br/>
 Selon nous, il nous faudrait un certain environnement pour être à même de mener à bien un projet.
 
-
 1. __Matériel:__
 		
 	* Internet
